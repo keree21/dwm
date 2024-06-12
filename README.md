@@ -1,4 +1,7 @@
+![screenshot_002](https://github.com/keree21/dwm/assets/102629278/767b364e-925a-4f88-be3d-306b92ba849f)
+
 # dwm
+
 My fork for suckless dwm, feel free to use it for your distribution.
 
 Firstly, you will need to install xorg-server xorg-xinit libxft libxinerama kitty picom nitrogen unclutter xautolock xorg-xrandr unclutter.
